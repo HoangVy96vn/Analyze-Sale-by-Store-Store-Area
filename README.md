@@ -15,6 +15,7 @@ Process: This phase, we'll check how many data we have, any NaN, any error, dupl
 Analyze (You can view both Process & Analyze phase in Python Code: [Store Sale.ipynb](https://github.com/HoangVy96vn/Analyze-Sale-by-Store-Store-Area/blob/ac1465452b3966fc277d353d9b25853b7e2b35c5/Store%20Sale.ipynb)
 
 Share: I loved Power BI version more as it easily satisfied my searching and analyzing. File Power BI: https://github.com/HoangVy96vn/Analyze-Sale-by-Store-Store-Area/blob/ac1465452b3966fc277d353d9b25853b7e2b35c5/Dashboard%20Sale%20by%20Store%20&%20Area.pbix
-Here is Tableau online: xxx
+Here is Tableau online: https://public.tableau.com/views/DashboardSalebyStoreArea/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+
 Lastly, presentation in Canvas: https://www.canva.com/design/DAFgMWT3lis/YNFrf25W5BBtCKEt-cJqKQ/view?utm_content=DAFgMWT3lis&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
